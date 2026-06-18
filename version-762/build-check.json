@@ -1,0 +1,61 @@
+{
+  "parsed_movies": 2000,
+  "detail_files": 2000,
+  "category_files": 12,
+  "category_card_count": 2000,
+  "html_files": 2017,
+  "baidu_missing": [],
+  "jpg_files_in_package": [],
+  "zip_size_bytes": 10290613,
+  "category_counts": {
+    "hot-library": 167,
+    "jp-kr-selection": 167,
+    "new-release": 167,
+    "classic-hall": 167,
+    "high-score": 167,
+    "movie-zone": 167,
+    "series-zone": 167,
+    "story-world": 167,
+    "action-mystery": 166,
+    "romance-comedy": 166,
+    "fantasy-sci-fi": 166,
+    "variety-topic": 166
+  },
+  "player_pages_checked": [
+    {
+      "file": "movie-1.html",
+      "has_video": true,
+      "has_overlay": true,
+      "has_m3u8": true,
+      "cover": true
+    },
+    {
+      "file": "movie-2.html",
+      "has_video": true,
+      "has_overlay": true,
+      "has_m3u8": true,
+      "cover": true
+    },
+    {
+      "file": "movie-150.html",
+      "has_video": true,
+      "has_overlay": true,
+      "has_m3u8": true,
+      "cover": true
+    },
+    {
+      "file": "movie-151.html",
+      "has_video": true,
+      "has_overlay": true,
+      "has_m3u8": true,
+      "cover": true
+    },
+    {
+      "file": "movie-2000.html",
+      "has_video": true,
+      "has_overlay": true,
+      "has_m3u8": true,
+      "cover": true
+    }
+  ]
+}
